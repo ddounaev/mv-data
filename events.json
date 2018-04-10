@@ -1,0 +1,10 @@
+{
+	"event": [
+		{
+			"name": "Test",
+			"description": "Test",
+			"start_time": "2018-04-30",
+			"end_time": "2018-04-30"
+		}
+	]
+}
