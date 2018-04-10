@@ -5,6 +5,12 @@
 			"last_name": "etst",
 			"email": "dim@test.com",
 			"birthdate": "2018-04-28"
+		},
+		{
+			"first_name": "Beker",
+			"last_name": "CUp",
+			"email": "cup@beker.com",
+			"birthdate": "2018-04-02"
 		}
 	]
 }
