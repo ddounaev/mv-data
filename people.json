@@ -11,6 +11,12 @@
 			"last_name": "CUp",
 			"email": "cup@beker.com",
 			"birthdate": "2018-04-02"
+		},
+		{
+			"first_name": "Test",
+			"last_name": "Test",
+			"email": "test@test.com",
+			"birthdate": "1000-04-10"
 		}
 	]
 }
