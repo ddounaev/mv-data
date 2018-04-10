@@ -8,5 +8,13 @@
 			"min_age": "23",
 			"max_age": "35"
 		}
+	],
+	"person": [
+		{
+			"first_name": "Dimi",
+			"last_name": "triy",
+			"email": "test@test.com",
+			"birthdate": "2018-04-28"
+		}
 	]
 }
