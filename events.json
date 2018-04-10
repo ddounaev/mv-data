@@ -4,7 +4,9 @@
 			"name": "Test",
 			"description": "Test",
 			"start_time": "2018-04-30",
-			"end_time": "2018-04-30"
+			"end_time": "2018-04-30",
+			"min_age": "23",
+			"max_age": "35"
 		}
 	]
 }
