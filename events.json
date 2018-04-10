@@ -7,7 +7,11 @@
 			"end_time": "2018-04-30",
 			"min_age": "23",
 			"max_age": "35",
-			"people": []
+			"people": [
+				{
+					"person": "Dimdon23@gmail.com"
+				}
+			]
 		}
 	],
 	"person": [
